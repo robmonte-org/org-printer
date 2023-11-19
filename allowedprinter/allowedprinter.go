@@ -1,4 +1,4 @@
-package privateprinter
+package allowedprinter
 
 import "fmt"
 
